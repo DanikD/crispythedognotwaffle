@@ -1,12 +1,12 @@
 # crispythedognotwaffle
-- item a
-- item b
-- item c
-
-## heading level 2
 1. one
 2. two
 3. three
+
+## heading level 2
+- item a
+- item b
+- item c
 
 *italic* **bold**
 
